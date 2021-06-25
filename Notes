@@ -1,0 +1,52 @@
+https://www.kaggle.com/luthfim/steam-reviews-dataset?select=steam_reviews.csv
+
+
+Idee: Fitlern/Kategorisieren ggb. Daten.
+
+Input:
+	-> Datensatz für das Spiel selbst;
+		-> Date; helpfull;...
+	
+
+Fertig:
+	-> Geclusterte Grafik; 
+	-> -> Wo nach wird geclustert
+		-> Bewertung
+		-> Context
+
+1.)
+	-> Filtern unbrauchbarer Kommentare
+
+2.)
+	-> Filtern der Reviews (Bewertung, Context)
+
+3.)
+	-> Filtern der nur English
+
+4.) 
+	-> Sortieren nach Spiel
+	
+5.)
+	-> a.) Erstellung einer List mit ("Wörtern") = Liste1
+	-> b.) Erstellung einer zweiten Liste mit ("Context") = Liste2
+
+6.)
+	-> Filtern der Reviews (Spalte)
+	-> nach Liste1 und Liste2
+	
+	
+
+
+
+
+_________________2.	___________________
+
+1.)
+	-> Definition Categorien 
+		-> (Grafik, Spiel, ..)
+		
+	-> Definition Bewertung
+		-> (Gut, Schlecht, ..)			
+		
+	-> 
+	
